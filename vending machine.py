@@ -47,4 +47,4 @@ if choice in items:
         print("Not enough money. Money returned.")                      #here the money if it is not enough the code will get 
 else:
     print("Invalid choice.")                                            # if i will enter the code in wrong way
-v
+
